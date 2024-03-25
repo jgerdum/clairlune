@@ -82,3 +82,6 @@ The file extension, password and more can be changed to fit your preferences in 
 - Increased dmgLevel to 3 for the first hit of Spinning Strikes R1 follow-up and R2 follow-up
 - Increased dmgLevel to 2 for the loop hits of Spinning Strikes
 - Increased dmgLevel to 11 for Caestus and Spiked Caestus neutral R2s
+
+# Credits
+This mod is based on the foundations of DEN Maps. Thank you for your support.
