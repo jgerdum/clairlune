@@ -15,6 +15,9 @@ The file extension, password and more can be changed to fit your preferences in 
 - Nerf to hyper armor of War Cry-like attacks (180)
 - Nerf to hyper armor of Wild Strikes-like attacks (168)
 
+- Fixed Last Rites backstab bounce glitch
+- Fixed Crimsonwhorl Bubbletear Wondrous Physick glitch
+- Changed armor poise scale (factor 0.4, center 0.0205, max 119) 
 - Changed AOW of Serpent-Hunter to Stamp (Upward Cut)
 - Increased Guard Stability of some Medium shields by 15-20%
 - Added 6 i-frames on backsteps
@@ -65,6 +68,7 @@ The file extension, password and more can be changed to fit your preferences in 
 - Decreased poise damage MV correction of Thrusting Sword Offhand L1 1 and 2, 1h R1 1 and 2h R1 1
 - Decreased poise damage MV correction of Charge Forth AOW
 - Decreased poise damage MV correction of Spinning Strikes AOW
+- Decreased poise damage MV correction of powerstanced Spear L1s
 - Decreased poise damage RAW of Storm Stomp to 101
 
 - Decreased attack damage of Flaming Strike follow-up by 20%
@@ -84,4 +88,5 @@ The file extension, password and more can be changed to fit your preferences in 
 - Increased dmgLevel to 11 for Caestus and Spiked Caestus neutral R2s
 
 # Credits
-This mod is based on the foundations of DEN Maps. Thank you for your support.
+DEN Maps team for providing foundations and support for this mod.
+rust_bucket for Last Rites related fixes.
